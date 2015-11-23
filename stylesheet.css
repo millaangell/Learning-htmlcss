@@ -1,0 +1,26 @@
+/* style="font-family:Lucida Sans Unicode; background-color:#e0dce7;" */
+body {
+   font-family:Lucida;
+   background:linear-gradient(#E2C9EE, #eadbf7);
+}
+h3 {
+   border-width:2px;
+   border-color:white;
+}
+
+p {
+   color:black;
+}
+
+.tdtitle {
+   text-align:center;
+}
+title {
+   text-align:center;
+}
+table {
+   border:2px dashed white;
+}
+td {
+   border:1px solid #E2C9EE;
+}
